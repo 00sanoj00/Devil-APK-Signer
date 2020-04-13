@@ -13,6 +13,10 @@
 
 ### 🏠 [Homepage](https://www.facebook.com/sanoj.jayathilaka1)
 
+##
+
+## [Download](https://github.com/00sanoj00/Devil-APK-Signer/releases)
+
 ## 👋Usage
 
 ```sh
