@@ -1,0 +1,8 @@
+D:\github\APK signer\APK signer\bin\Release\APK signer.exe.config
+D:\github\APK signer\APK signer\bin\Release\APK signer.exe
+D:\github\APK signer\APK signer\bin\Release\APK signer.pdb
+D:\github\APK signer\APK signer\obj\Release\APK_Signer.Main.resources
+D:\github\APK signer\APK signer\obj\Release\APK_Signer.Properties.Resources.resources
+D:\github\APK signer\APK signer\obj\Release\APK signer.csproj.GenerateResource.Cache
+D:\github\APK signer\APK signer\obj\Release\APK signer.exe
+D:\github\APK signer\APK signer\obj\Release\APK signer.pdb
