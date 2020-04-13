@@ -13,11 +13,14 @@
 
 ### 🏠 [Homepage](https://www.facebook.com/sanoj.jayathilaka1)
 
-## Usage
+## 👋Usage
 
 ```sh
 Install Java jar or jdk next open APK Signer.exe and drag and drop apk files now click Signer APK Button
 ```
+## 👋 ScreenShot
+<img src="https://github.com/00sanoj00/Devil-APK-Signer/blob/master/src/a.PNG?raw=true" />
+<img src="https://github.com/00sanoj00/Devil-APK-Signer/blob/master/src/b.PNG?raw=true" />
 
 ## Author
 
@@ -34,7 +37,7 @@ This project exists thanks to all the people who contribute.
 *[Patrick Favre-Bulle](https://github.com/patrickfav)
 *[uber-apk-signer](https://github.com/patrickfav/uber-apk-signer)
 
-<a href="https://github.com/kefranabg/readme-md-generator/graphs/contributors"><img src="https://avatars0.githubusercontent.com/u/2980711?s=120&v=4" /></a>
+<a href="https://github.com/patrickfav"><img src="https://avatars0.githubusercontent.com/u/2980711?s=120&v=4" /></a>
 
 ## 🤝 Contributing
 
